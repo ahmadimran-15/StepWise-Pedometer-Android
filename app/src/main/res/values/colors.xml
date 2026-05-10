@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="customColorPrimary">#209AF0</color>
+    <color name="customColorPrimaryDark">#209AF0</color>
+    <color name="darskishblue">#147EAE</color>
+    <color name="colorItemSelected">@color/colorItemDefault</color> <!-- Light purple color when item is selected -->
+    <color name="colorItemDefault">#FFFFFF</color> <!-- Default background color for items -->
+    <color name="customColorAccent">#FF03DAC5</color>
+
+</resources>

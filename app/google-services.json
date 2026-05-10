@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408967712581",
+    "project_id": "pedometer-3e575",
+    "storage_bucket": "pedometer-3e575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408967712581:android:8ca66877ad7a474086f82c",
+        "android_client_info": {
+          "package_name": "com.muhammadahmad.pedometer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH1nWp-0A2d0k81_r-PL3OhZKhWXgM8q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
